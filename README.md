@@ -35,7 +35,8 @@ All figures are estimates. See "Where the information comes from" below.
 
 ## How to use it
 
-1. **[Download the Excel model](https://github.com/hasinichapa/paradise-snowcone-financial-model/raw/main/Paraiso_Snow_Cones_Financial_Model.xlsx)** and open it in Excel.2. Go to the **Assumptions** tab and find the two yellow cells.
+1. Download `Paraiso_Snow_Cones_Financial_Model.xlsx` from this repository and open it in Excel.
+2. 2. Go to the **Assumptions** tab and find the two yellow cells.
 3. Change the **scenario** (1 = Base, 2 = Weak summer, 3 = Strong summer) or set **Buy direct from manufacturer** to 1 to see how revenue, profit, and cash change.
 
 Color guide: blue text is an input, black is a formula, green is a link to another tab, and yellow marks an adjustable setting.
