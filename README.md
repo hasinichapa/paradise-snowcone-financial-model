@@ -48,7 +48,3 @@ Color guide: blue text is an input, black is a formula, green is a link to anoth
 - **Weather:** rounded, approximate average highs and rain days for the Aubrey / North Texas area, not pulled from a weather database.
 
 Because the dollar figures are estimates, this is a modeling exercise, not the business's actual financial statements.
-
-## Skills demonstrated
-
-Excel financial modeling, scenario analysis, cash flow forecasting, profitability analysis, sourcing cost comparison
